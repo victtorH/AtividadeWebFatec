@@ -102,6 +102,7 @@ Breakpoint principal:
 
 @media (max-width: 576px) {
   /* Ajustes específicos para mobile */
+  <img src="https://github.com/victtorH/AtividadeWebFatec/issues/1#issue-3529926267" alt="Foto Grande">
 }
 
 🧠 Aprendizados
