@@ -103,6 +103,7 @@ Breakpoint principal:
 @media (max-width: 576px) {
   /* Ajustes específicos para mobile */
   <img width="1894" height="1066" alt="Image" src="https://github.com/user-attachments/assets/7b3b9100-2af9-4d4c-8829-c7098586a443" />
+  <img width="750" height="767" alt="Image" src="https://github.com/user-attachments/assets/7435430d-7bb7-4fba-9aef-26129a4278c8" />
 }
 
 🧠 Aprendizados
