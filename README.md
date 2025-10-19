@@ -4,7 +4,9 @@ Landing page institucional desenvolvida como parte da disciplina de Desenvolvime
 
 O desafio foi criar uma página totalmente responsiva, visualmente agradável e com foco em design e experiência do usuário, explorando as possibilidades do CSS tradicional.
 
-Link: https://victtorh.github.io/AtividadeWebFatec/
+<a href="https://victtorh.github.io/AtividadeWebFatec/
+" target="_blank">link page</a> 
+<br>
 
 🎯 Objetivo do Projeto
 
