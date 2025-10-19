@@ -4,6 +4,8 @@ Landing page institucional desenvolvida como parte da disciplina de Desenvolvime
 
 O desafio foi criar uma página totalmente responsiva, visualmente agradável e com foco em design e experiência do usuário, explorando as possibilidades do CSS tradicional.
 
+Link: https://victtorh.github.io/AtividadeWebFatec/
+
 🎯 Objetivo do Projeto
 
 Desenvolver uma landing page institucional para uma empresa fictícia — no caso, a Smarter, uma fornecedora de serviços voltada à melhoria de desempenho diário, alimentação e rotina saudável.
