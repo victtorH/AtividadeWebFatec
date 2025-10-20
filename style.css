@@ -134,6 +134,8 @@ nav a:hover::after {
 }
 
 #Descricao > div > div {
+  position: relative;
+  left: -20%;
   display: inline-block;
   width: 45%;
   margin: 0rem 1rem 2% 2%;
@@ -162,15 +164,20 @@ nav a:hover::after {
 }
 
 #Descricao > div > div:nth-child(2) {
+  position: absolute;
+  left: 60%;
   overflow: hidden;
-  height: 400px;
+  width: 350px;
+  height: 350px;
   padding: 20px;
   margin-top: 15%;
 }
 .imgdescricao:nth-child(1),
 .imgdescricao:nth-child(2),
 .imgdescricao:nth-child(3) {
-  position: relative;
+  position: absolute;
+  top: 0;
+  left: 10%;
   display: inline-block;
   border-radius: 3rem;
   opacity: 0;
@@ -187,12 +194,10 @@ nav a:hover::after {
   animation-delay: 4s;
 }
 .imgdescricao:nth-child(2) {
-  top: -78%;
   animation-duration: 12s;
   animation-delay: 8s;
 }
 .imgdescricao:nth-child(3) {
-  top: -170%;
   animation-duration: 12s;
   animation-delay: 12s;
 }
